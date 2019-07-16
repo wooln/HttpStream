@@ -32,8 +32,7 @@ namespace MyStream
             Console.WriteLine("over");
 
         }
-
-        //https://www.biedoul.com/Uploads/Images/36/58dba12634ca3.jpg
+        
         static string baseUrl = "https://www.sinooceangroup.com/Content/Images/zh-cn/";
         static string resourcePath = "homeBanner3.jpg";
 
